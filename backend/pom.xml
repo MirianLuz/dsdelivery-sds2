@@ -33,13 +33,13 @@
 		<dependency>
 			<groupId> com.h2database </groupId>
 			<artifactId>h2</artifactId>
-			<scope>tempo de execução </scope>
+			<scope>runtime</scope>
 		</dependency>
 
 		<dependency>
-			<groupId> org.postgresql </groupId>
-			<artifactId> postgresql </artifactId>
-			<scope>tempo de execução </scope>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<scope>runtime</scope>
 		</dependency>
 
 		<dependency>
