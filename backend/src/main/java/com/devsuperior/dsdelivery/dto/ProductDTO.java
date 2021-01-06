@@ -1,4 +1,4 @@
-package com.devsuperior.dsdelivery.services.dto;
+package com.devsuperior.dsdelivery.dto;
 
 import java.io.Serializable;
 
